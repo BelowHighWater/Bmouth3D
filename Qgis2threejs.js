@@ -56,7 +56,7 @@ Q3D.Config = {
     visible: true,
     connectorColor: 0xc0c0d0,
     fixedSize: false,
-    minFontSize: 14,
+    minFontSize: 12,
     queryable: false
   },
   // decoration
